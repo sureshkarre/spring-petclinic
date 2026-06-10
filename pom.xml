@@ -20,6 +20,10 @@
     <java.version>17</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+     <sonar.host.url>http://13.203.203.165:9000/</sonar.host.url>
+      <sonar.login>admin</sonar.login>
+       <sonar.password>ss123</sonar.password>
+
     <!-- Important for reproducible builds. Update using e.g. ./mvnw versions:set -DnewVersion=... -->
     <project.build.outputTimestamp>2024-11-28T14:37:52Z</project.build.outputTimestamp>
 
